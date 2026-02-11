@@ -30,13 +30,13 @@ a {
     font-family: cursive;
 }
 body {
-    background-image: url("/Images/flower2.webp");
+    background-image: url("/images/blueflowers.webp");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-blend-mode: darken;
     background-color: rgba(0, 0, 0, 0.4);
-
 }
+
 
